@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jamiesyme/js-utils-pure-http-router/issues"
   },
-  "homepage": "https://github.com/jamiesyme/js-utils-pure-http-router#readme"
+  "homepage": "https://github.com/jamiesyme/js-utils-pure-http-router#readme",
+  "dependencies": {
+    "path-to-regexp": "^6.2.1"
+  }
 }
