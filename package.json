@@ -2,6 +2,7 @@
   "name": "js-utils-pure-http-router",
   "version": "0.1.0",
   "description": "Framework-independent HTTP request routing",
+  "type": "module",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
